@@ -43,3 +43,9 @@ Oefening 1 - Light & Darkmode
 ![Darkmode](readme-images/Darkmode.png)
 
 Tijdens deze oefening heb ik geleerd om met custom properties te werken in CSS. Ik heb verschillende kleuren ingesteld voor de achtergrond, tekst en randen. Ook heb ik geleerd hoe ik met light-dark code een licht en donker thema kan maken. Door de instellingen van mijn Mac te veranderen, kon ik zien hoe de pagina automatisch van kleur verandert.
+
+Oefening 2 - Twee thema's
+![Light Mode](readme-images/KittenLIGHT.png)
+![Dark Mode](readme-images/KittenDARK.png)
+
+Tijdens deze opdracht heb ik geoefend met het maken van een light en dark theme voor de kattenwebsite. Ik heb verschillende kleuren ingesteld met custom properties en de light-dark code gebruikt. Het lukte me om tussen de lichte en donkere versie te wisselen. Ik vond het leuk om te zien hoe dezelfde website er met andere kleuren meteen anders uitziet :D
