@@ -1,4 +1,4 @@
-Sprint 0- Week 1
+SPRINT 0- GETTING A GRIP
 
 S0 - Interactie: Wok To Walk bestelformulier opdracht
 
@@ -27,3 +27,19 @@ S0 - CSS: fonts met kleur en effecten
 
 Oefening 1- Front Properties
 ![Code Oefening 2](readme-images/CSSDIVE1.png)
+
+Tijdens deze oefening heb ik geoefend met het aanpassen van lettertypes, de grootte van letters en de kleur. Ook heb ik geleerd hoe ik alleen de eerste letter van een tekst een andere stijl kan geven. Zo heb ik mijn tekst wat meer uitstraling kunnen geven.
+
+Oefening 2 - Fonts, kleur en effecten
+![Oefening 2 CSS](readme-images/Oefening2CSS.png)
+
+Tijdens deze oefening heb ik geëxperimenteerd met achtergrondkleuren en verschillende lettertypes. Ook heb ik een neonachtig effect gemaakt met tekstschaduw. Ik vond het leuk om te zien hoe je met kleuren en effecten een tekst meer kunt laten opvallen.
+
+SPRINT 1- DIGITAL GARDEN
+
+Oefening 1 - Light & Darkmode
+
+![Lightmode](readme-images/Lightmode.png)
+![Darkmode](readme-images/Darkmode.png)
+
+Tijdens deze oefening heb ik geleerd om met custom properties te werken in CSS. Ik heb verschillende kleuren ingesteld voor de achtergrond, tekst en randen. Ook heb ik geleerd hoe ik met light-dark code een licht en donker thema kan maken. Door de instellingen van mijn Mac te veranderen, kon ik zien hoe de pagina automatisch van kleur verandert.
