@@ -49,3 +49,11 @@ Oefening 2 - Twee thema's
 ![Dark Mode](readme-images/KittenDARK.png)
 
 Tijdens deze opdracht heb ik geoefend met het maken van een light en dark theme voor de kattenwebsite. Ik heb verschillende kleuren ingesteld met custom properties en de light-dark code gebruikt. Het lukte me om tussen de lichte en donkere versie te wisselen. Ik vond het leuk om te zien hoe dezelfde website er met andere kleuren meteen anders uitziet :D
+
+Oefening 3 - Responsive afbeeldingen
+
+![Responsive](readme-images/Responsive.png)
+![Running dark mode](readme-images/Runningdarkmode.png)
+![Running light mode](readme-images/Runninglightmode.png)
+
+Bij deze opdracht heb ik geleerd hoe ik een responsive picture maak met HTML en CSS. Ik heb uitgeprobeerd hoe de afbeelding verandert als je je scherm groter of kleiner maakt en als je wisselt tussen light en dark mode. Het was leuk om te zien dat het uiteindelijk allemaal werkte!
