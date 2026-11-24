@@ -37,6 +37,17 @@ Tijdens deze oefening heb ik geëxperimenteerd met achtergrondkleuren en verschi
 
 SPRINT 1- DIGITAL GARDEN
 
+CHECKOUT
+
+1.Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+Een digital garden is een persoonlijke website waar je je interesses, ideeën en inspiratie verzamelt. Het is anders dan een gewone website, omdat het steeds kan veranderen en groeien.
+
+2.Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Een webby website is creatief, persoonlijk en speels. Websites met een nostalgische uitstraling, felle kleuren en leuke details inspireren mij het meest.
+
+3.Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden
+Ik wil mijn digital garden over games en mijn eigen interesses maken. Ik wil er een kleurrijke en nostalgische stijl aan geven, een beetje zoals oude games en websites van vroeger.
+
 Oefening 1 - Light & Darkmode
 
 ![Lightmode](readme-images/Lightmode.png)
@@ -57,3 +68,46 @@ Oefening 3 - Responsive afbeeldingen
 ![Running light mode](readme-images/Runninglightmode.png)
 
 Bij deze opdracht heb ik geleerd hoe ik een responsive picture maak met HTML en CSS. Ik heb uitgeprobeerd hoe de afbeelding verandert als je je scherm groter of kleiner maakt en als je wisselt tussen light en dark mode. Het was leuk om te zien dat het uiteindelijk allemaal werkte!
+
+Visual Research
+
+We hebben eerst een sfeerwoord gekozen dat bij ons thema past. Vanuit dat hebben we verschillende afbeeldingen verzameld. Daarna hebben we deze afbeeldingen omgezet naar abstracte typografische ontwerpen. Uit die ontwerpen hebben we vier favorieten gekozen, die we vervolgens als inspiratie hebben gebruikt voor onze Crazy 8-schetsen.
+
+![VRStap1](readme-images/VRStap1.png)
+![VRStap2](readme-images/VRStap2.png)
+![VRStap3](readme-images/VRStap3.png)
+![Crazy8](readme-images/VRCrazy8.png)
+
+Mini styleguide
+
+Color palette
+
+![ColorPaletteLight](readme-images/ColorPaletteLight.png)
+![ColorPaletteDark](readme-images/ColorPaletteDark.png)
+
+Voor mijn Digital Garden heb ik twee kleurenpaletten gemaakt: eentje voor light mode en eentje voor dark mode. Voor de light mode heb ik gekozen voor zachte pastelkleuren zoals roze, mintgroen en lichtgeel. Voor de dark mode heb ik dezelfde soort kleuren gebruikt, maar dan in iets donkerdere tinten. Zo vind ik dat pasen de twee versies goed bij elkaar passen, maar hebben ze toch allebei hun eigen vibe.
+
+Typography
+
+![Typography1](readme-images/Ohm.png)
+![Typography2](readme-images/Redaction.png)
+![Typography3](readme-images/Tachyon.png)
+
+Ik heb drie lettertypes gekozen die ik goed bij mijn thema vind passen. Ohm vind ik er futuristisch uitzien, Redaction heeft een beetje een retro uitstraling en Tachyon doet me denken aan oude games en technologie. Ik vind het leuk om deze stijlen te combineren, omdat ze goed passen bij de nostalgische game en internet stijl die ik wil gebruiken.
+
+Mobile first schetsen
+
+![MobileSchets](readme-images/MobileSchets.png)
+
+Voor mijn mobile schetsen heb ik vier verschillende onderdelen bedacht voor mijn Digital Garden. Zo heb ik Games of the Month, waar ik laat zien welke games ik momenteel speel, en Song of the Month voor mijn favoriete muziek. Daarnaast heb ik een pagina gemaakt voor mijn algemene interesses en een wishlist met games die ik nog wil spelen.
+
+CHECKOUT
+
+1,Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Vanuit je onderwerp inspiratie verzamelen, deze omzetten naar abstracte vormen en typografie en daar dan uiteindelijk ideeën voor je ontwerp uit halen.
+
+2.Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+Mijn Garden gaat over games en mijn eigen interesses. Ik wil dit laten zien met afbeeldingen, korte teksten en een nostalgische stijl die geïnspireerd is op oude games en websites.
+
+3.Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+Ik vind het idee met de verschillende gamecategorieën het leukst. Dit wil ik verder uitwerken, zodat bezoekers makkelijk door mijn interesses en favoriete games kunnen bladeren.
