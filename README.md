@@ -1,6 +1,6 @@
 SPRINT 0- GETTING A GRIP
 
-S0 - Interactie: Wok To Walk bestelformulier opdracht
+### Interactie: Wok To Walk bestelformulier opdracht
 
 ![Schets 1](readme-images/Schets%201%20WokToWalk.png)
 ![Schets 2](readme-images/Schets%202%20WoktoWalk.png)
