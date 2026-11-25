@@ -78,6 +78,11 @@ We hebben eerst een sfeerwoord gekozen dat bij ons thema past. Vanuit dat hebben
 ![VRStap3](readme-images/VRStap3.png)
 ![Crazy8](readme-images/VRCrazy8.png)
 
+Twee websites analyseren
+![WebsiteAnalyseren](readme-images/WebsiteAnalyseren.png)
+(Sorry voor het natte papiertje! er was helaas wat water op gelekt ;-;)
+Tijdens deze opdracht hebben we twee websites bekeken en geanalyseerd. We keken bijvoorbeeld of ze goed werken op verschillende schermformaten, of ze toegankelijk zijn en hoe interactief ze zijn. We hebben besproken wat goed was en wat beter kon. Hierdoor ben ik bewuster gaan kijken naar hoe websites in elkaar zitten.
+
 Mini styleguide
 
 Color palette
@@ -95,12 +100,6 @@ Typography
 
 Ik heb drie lettertypes gekozen die ik goed bij mijn thema vind passen. Ohm vind ik er futuristisch uitzien, Redaction heeft een beetje een retro uitstraling en Tachyon doet me denken aan oude games en technologie. Ik vind het leuk om deze stijlen te combineren, omdat ze goed passen bij de nostalgische game en internet stijl die ik wil gebruiken.
 
-Mobile first schetsen
-
-![MobileSchets](readme-images/MobileSchets.png)
-
-Voor mijn mobile schetsen heb ik vier verschillende onderdelen bedacht voor mijn Digital Garden. Zo heb ik Games of the Month, waar ik laat zien welke games ik momenteel speel, en Song of the Month voor mijn favoriete muziek. Daarnaast heb ik een pagina gemaakt voor mijn algemene interesses en een wishlist met games die ik nog wil spelen.
-
 CHECKOUT
 
 1,Leg uit waar het Visual Research in 3 stappen naartoe werkt
@@ -111,3 +110,33 @@ Mijn Garden gaat over games en mijn eigen interesses. Ik wil dit laten zien met 
 
 3.Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 Ik vind het idee met de verschillende gamecategorieën het leukst. Dit wil ik verder uitwerken, zodat bezoekers makkelijk door mijn interesses en favoriete games kunnen bladeren.
+
+Practicum mooie kleuren en gradients
+
+Oefening 1 - De zes gradients
+
+![GradientOefening](readme-images/GradientOefening.png)
+![VlaggenOefening](readme-images/VlaggenOefening.png)
+
+Ik heb geleerd hoe verschillende soorten gradients werken, hoe je ze kunt combineren en hoe je met percentages de positie ervan kunt bepalen. Zo kan ik bijvoorbeeld de kleuren en de grootte van de vlakken aanpassen om verschillende patronen en vlaggen te maken
+
+Mobile first schetsen
+
+![MobileSchets](readme-images/MobileSchets.png)
+
+Voor mijn mobile schetsen heb ik vier verschillende onderdelen bedacht voor mijn Digital Garden. Zo heb ik Games of the Month, waar ik laat zien welke games ik momenteel speel, en Song of the Month voor mijn favoriete muziek. Daarnaast heb ik een pagina gemaakt voor mijn algemene interesses en een wishlist met games die ik nog wil spelen.
+
+Practicum Grid 101 + Media queries 101
+
+Grid oefening 1 - Meet the properties
+![GridOefeningV1](readme-images/GridOefeningV1.png)
+![GridOefeningV2](readme-images/GridOefeningV2.png)
+
+Ik vind het werken met grid nog best een beetje lastig en moet er nog wat meer mee oefenen. Wel lijkt het me handig om dit later zelf te gebruiken op mijn website, dus ik wil er graag beter in worden.
+
+WS 4 + Bi-weekly geek 1
+
+![Geek1](readme-images/Geek1.png)
+![Geek2](readme-images/Geek2.png)
+
+Tijdens deze opdracht hebben we in groepjes verschillende stellingen besproken en deelvragen bedacht die ons konden helpen om de hoofdvraag te beantwoorden. Daarna hebben we de opdrachten gewisseld met een andere groep. Zij moesten bij onze vragen passende onderzoeksmethodes bedenken, zoals interviews, surveys en literature studies. Hierdoor kreeg ik een beter beeld van welke onderzoeksmethodes je kunt gebruiken om een onderwerp te onderzoeken.
