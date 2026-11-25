@@ -8,7 +8,7 @@ SPRINT 0- GETTING A GRIP
 Voor deze opdracht heb ik twee verschillende schetsen gemaakt voor het online bestelformulier van Wok to Walk. Bij de eerste schets heb ik gekozen voor een overzichtelijk formulier met vier stappen: basis, ingrediënten, saus en drankje. Rechts staat een overzicht van de bestelling, zodat je meteen kunt zien wat je hebt gekozen en hoeveel het kost.
 Bij de tweede schets heb ik gewerkt met grotere kaarten waarop je de verschillende opties kunt kiezen. Ik vind deze manier ook fijn, omdat het er wat speelser uitziet. Zelf vind ik de tweede schets mooier, maar de eerste schets is wat overzichtelijker.
 
-S0 - Schetsen van o.a. interactie en animatie
+### Schetsen van o.a. interactie en animatie
 
 ![Schets 3](readme-images/Lijntjes.png)
 
@@ -18,7 +18,7 @@ S0 - Schetsen van o.a. interactie en animatie
 
 Tijdens deze opdracht heb ik geoefend met het tekenen van rechte lijnen, vierkanten en rechthoeken. Ook heb ik mijn eigen telefoon op ware grootte nagetekend. Ik merkte dat het soms lastig was om alles netjes en recht te krijgen. Het was een goede oefening om nauwkeuriger te leren tekenen en beter op verhoudingen te letten.
 
-S0 - Praktische CSS
+### Praktische CSS
 
 Oefening 1- Een lelijke HTML pagina mooi maken
 
@@ -26,7 +26,7 @@ Oefening 1- Een lelijke HTML pagina mooi maken
 
 Voor deze opdracht heb ik een kleine website gemaakt over Resident Evil. Ik heb geoefend met HTML en CSS en geleerd hoe ik titels, teksten, afbeeldingen en links kan toevoegen. Ook heb ik een hover-effect gemaakt waarbij de link roze wordt en er een gestippeld kader omheen verschijnt als je er met je muis overheen gaat.
 
-S0 - CSS: fonts met kleur en effecten
+### CSS: fonts met kleur en effecten
 
 Oefening 1- Front Properties
 
@@ -40,7 +40,7 @@ Oefening 2 - Fonts, kleur en effecten
 
 Tijdens deze oefening heb ik geëxperimenteerd met achtergrondkleuren en verschillende lettertypes. Ook heb ik een neonachtig effect gemaakt met tekstschaduw. Ik vond het leuk om te zien hoe je met kleuren en effecten een tekst meer kunt laten opvallen.
 
-SPRINT 1- DIGITAL GARDEN
+### SPRINT 1- DIGITAL GARDEN
 
 CHECKOUT
 
@@ -74,7 +74,7 @@ Oefening 3 - Responsive afbeeldingen
 
 Bij deze opdracht heb ik geleerd hoe ik een responsive picture maak met HTML en CSS. Ik heb uitgeprobeerd hoe de afbeelding verandert als je je scherm groter of kleiner maakt en als je wisselt tussen light en dark mode. Het was leuk om te zien dat het uiteindelijk allemaal werkte!
 
-Visual Research
+### Visual Research
 
 We hebben eerst een sfeerwoord gekozen dat bij ons thema past. Vanuit dat hebben we verschillende afbeeldingen verzameld. Daarna hebben we deze afbeeldingen omgezet naar abstracte typografische ontwerpen. Uit die ontwerpen hebben we vier favorieten gekozen, die we vervolgens als inspiratie hebben gebruikt voor onze Crazy 8-schetsen.
 
@@ -88,7 +88,7 @@ Twee websites analyseren
 (Sorry voor het natte papiertje! er was helaas wat water op gelekt ;-;)
 Tijdens deze opdracht hebben we twee websites bekeken en geanalyseerd. We keken bijvoorbeeld of ze goed werken op verschillende schermformaten, of ze toegankelijk zijn en hoe interactief ze zijn. We hebben besproken wat goed was en wat beter kon. Hierdoor ben ik bewuster gaan kijken naar hoe websites in elkaar zitten.
 
-Mini styleguide
+### Mini styleguide
 
 Color palette
 
@@ -116,7 +116,7 @@ Mijn Garden gaat over games en mijn eigen interesses. Ik wil dit laten zien met 
 3.Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
 Ik vind het idee met de verschillende gamecategorieën het leukst. Dit wil ik verder uitwerken, zodat bezoekers makkelijk door mijn interesses en favoriete games kunnen bladeren.
 
-Practicum mooie kleuren en gradients
+### Practicum mooie kleuren en gradients
 
 Oefening 1 - De zes gradients
 
@@ -125,13 +125,13 @@ Oefening 1 - De zes gradients
 
 Ik heb geleerd hoe verschillende soorten gradients werken, hoe je ze kunt combineren en hoe je met percentages de positie ervan kunt bepalen. Zo kan ik bijvoorbeeld de kleuren en de grootte van de vlakken aanpassen om verschillende patronen en vlaggen te maken
 
-Mobile first schetsen
+### Mobile first schetsen
 
 ![MobileSchets](readme-images/MobileSchets.png)
 
 Voor mijn mobile schetsen heb ik vier verschillende onderdelen bedacht voor mijn Digital Garden. Zo heb ik Games of the Month, waar ik laat zien welke games ik momenteel speel, en Song of the Month voor mijn favoriete muziek. Daarnaast heb ik een pagina gemaakt voor mijn algemene interesses en een wishlist met games die ik nog wil spelen.
 
-Practicum Grid 101 + Media queries 101
+### Practicum Grid 101 + Media queries 101
 
 Grid oefening 1 - Meet the properties
 ![GridOefeningV1](readme-images/GridOefeningV1.png)
@@ -139,7 +139,7 @@ Grid oefening 1 - Meet the properties
 
 Ik vind het werken met grid nog best een beetje lastig en moet er nog wat meer mee oefenen. Wel lijkt het me handig om dit later zelf te gebruiken op mijn website, dus ik wil er graag beter in worden.
 
-WS 4 + Bi-weekly geek 1
+### WS 4 + Bi-weekly geek 1
 
 ![Geek1](readme-images/Geek1.png)
 ![Geek2](readme-images/Geek2.png)
